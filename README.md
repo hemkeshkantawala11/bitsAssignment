@@ -1,4 +1,7 @@
 
+# Github Link : https://github.com/hemkeshkantawala11/bitsAssignment
+
+
 # Student-Course Management System
 
 A Spring Boot-based web application designed for efficient management of students and their course enrollments. This system supports administrators in handling a many-to-many relationship between students and courses seamlessly.
