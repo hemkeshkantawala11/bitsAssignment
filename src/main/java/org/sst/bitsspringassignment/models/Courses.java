@@ -3,7 +3,6 @@ package org.sst.bitsspringassignment.models;
 
 import jakarta.persistence.*;
 import java.util.*;
-import org.sst.bitsspringassignment.models.Students;
 @Entity
 public class Courses {
     @Id

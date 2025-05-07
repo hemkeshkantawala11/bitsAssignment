@@ -18,4 +18,8 @@ public class CourseService {
     public Courses saveCourse(Courses courses) {
         return courseRepo.save(courses);
     }
+
+    public Courses getCourseById(Long id) {
+        return courseRepo.findById(id).orElse(null);
+    }
 }
